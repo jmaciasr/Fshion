@@ -1,0 +1,70 @@
+.wrapper {
+	margin: 0 auto;
+	width: 968px;
+
+}
+
+.banner {
+	display: block;
+		
+}
+
+.nav {
+	position: relative;
+
+		ul {
+
+	left: 370px;
+	position: absolute;
+    top: 60px;
+
+	    	li { 
+		color: #fff;
+		display: inline-block;
+		font-family: arial;
+		list-style: none;
+		padding: 20px;
+
+
+ 		}
+
+
+	}
+
+}
+
+ 
+.slider{
+	position: relative;
+}
+
+
+
+.pop {
+	
+	width: 316px;
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    background-color: #fff;
+    padding: $px10;
+
+	    	h2 {
+		color: #04b0ed;
+}
+} 
+
+.article, .article h3 { 
+	margin: 15px 0;
+	width: 316px;
+
+}
+
+.article {
+	float: left;
+	
+}
+
+.center {
+	margin: 15px $px10;
+}
